@@ -1,9 +1,8 @@
 # Olá! Eu sou o João Vitor Antunes 
-<div>
-<a href="https://github.com/JoaoVitorAntunes">
-  <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=JoaoVitorAntunes&show_icons=true" />
-  <img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAntunes" /> 
-</a>
+ <div>
+  <a href="https://github.com/JoaoVitorAntunes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorAntunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAntunes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##
