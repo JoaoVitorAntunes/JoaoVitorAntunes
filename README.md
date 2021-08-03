@@ -1,8 +1,8 @@
 # Olá! Eu sou o João Vitor Antunes 
 <div>
 <a href="https://github.com/ricarthlima/ricarthlima">
-  <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAntunes" />
   <img align = "right" src = "https://github-readme-stats.vercel.app/api?username=JoaoVitorAntunes&show_icons=true" />
+  <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAntunes" /> 
 </a>
 </div>
   
