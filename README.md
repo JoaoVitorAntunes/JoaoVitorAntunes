@@ -1,10 +1,12 @@
 # Olá! Eu sou o João Vitor Antunes 
 <div>
-<a href="https://github.com/ricarthlima/ricarthlima">
-  <img align = "right" src = "https://github-readme-stats.vercel.app/api?username=JoaoVitorAntunes&show_icons=true" />
-  <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAntunes" /> 
+<a href="https://github.com/JoaoVitorAntunes">
+  <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=JoaoVitorAntunes&show_icons=true" />
+  <img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAntunes" /> 
 </a>
 </div>
+  
+  ##
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Antunes-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
